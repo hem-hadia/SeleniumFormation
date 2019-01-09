@@ -1,0 +1,8 @@
+<suite name="Ma première suite de test" parallel="none">
+	<test name="Test avec Firefox">
+    	<classes>
+      		<class name="Src.STM.Test.myTestng"/>
+    	</classes>
+  	</test>
+	
+</suite>

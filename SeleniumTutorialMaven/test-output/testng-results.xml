@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[About to begin executing Suite Default suite]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing Test Default test]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : myTestng.beforeClass]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : myTestng.beforeClass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : myTestng.login]]>
+    </line>
+    <line>
+      <![CDATA[Login Sucess]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : myTestng.login]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in SeleniumTutorialMaven.SeleniumTutorialMaven.myTestng]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : myTestng.afterTest]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : myTestng.afterTest]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8587" started-at="2019-01-08T15:39:47Z" finished-at="2019-01-08T15:39:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8587" started-at="2019-01-08T15:39:47Z" finished-at="2019-01-08T15:39:56Z">
+      <class name="SeleniumTutorialMaven.SeleniumTutorialMaven.myTestng">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:SeleniumTutorialMaven.SeleniumTutorialMaven.myTestng@1e88b3c]" name="beforeClass" is-config="true" duration-ms="6228" started-at="2019-01-08T15:39:47Z" finished-at="2019-01-08T15:39:54Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : myTestng.beforeClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="login()[pri:0, instance:SeleniumTutorialMaven.SeleniumTutorialMaven.myTestng@1e88b3c]" name="login" duration-ms="1583" started-at="2019-01-08T15:39:54Z" finished-at="2019-01-08T15:39:55Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Sucess]]>
+            </line>
+            <line>
+              <![CDATA[Completed executing following method : myTestng.login]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in SeleniumTutorialMaven.SeleniumTutorialMaven.myTestng]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:SeleniumTutorialMaven.SeleniumTutorialMaven.myTestng@1e88b3c]" name="afterTest" is-config="true" duration-ms="734" started-at="2019-01-08T15:39:55Z" finished-at="2019-01-08T15:39:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : myTestng.afterTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- SeleniumTutorialMaven.SeleniumTutorialMaven.myTestng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

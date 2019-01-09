@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/progideo/eclipse/libs/extentreports-4.0.1/dependency/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="/home/progideo/eclipse/libs/extentreports-4.0.1/dependency/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/home/progideo/eclipse/libs/extentreports-4.0.1/dependency/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/progideo/eclipse/libs/extentreports-4.0.1/dependency/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/progideo/eclipse/libs/extentreports-4.0.1/dependency/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="/home/progideo/eclipse/libs/extentreports-4.0.1/dependency/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="/home/progideo/eclipse/libs/extentreports-4.0.1/dependency/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/home/progideo/eclipse/libs/extentreports-4.0.1/dependency/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="/home/progideo/eclipse/libs/extentreports-4.0.1/dependency/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/home/progideo/eclipse/libs/extentreports-4.0.1/dependency/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="/home/progideo/eclipse/libs/extentreports-4.0.1/dependency/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/home/progideo/eclipse/libs/extentreports-4.0.1/dependency/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/home/progideo/eclipse/libs/extentreports-4.0.1/dependency/testng-6.9.10.jar"/>
+	<classpathentry kind="lib" path="/home/progideo/eclipse/libs/extentreports-4.0.1/extentreports-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/progideo/eclipse/libs/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/home/progideo/eclipse/libs/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
